@@ -96,7 +96,7 @@ header-includes:
 
 6. Я перенесла файлы на github.
 
-![Перенос файлов на github](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab03/report/image/Снимок экрана от 2024-10-12 11-40-31.png){#fig:001 width=70%}
+![Перенос файлов на github](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab03/report/image/Снимок экрана от 2024-10-12 12-52-37.png){#fig:001 width=70%}
 
 # Выполнение самостоятельной работы
 
@@ -112,7 +112,7 @@ header-includes:
 
 3. Загрузила файлы на github
 
-![Загрузка файлов на github](){#fig:001 width=70%}
+![Загрузка файлов на github](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab03/report/image/Снимок экрана от 2024-10-12 12-52-37.png){#fig:001 width=70%}
 
 # Выводы
 
