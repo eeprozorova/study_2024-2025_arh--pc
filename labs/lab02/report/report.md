@@ -76,69 +76,69 @@ header-includes:
 
 2. Сделала предварительную конфигурацию git. Для этого ввожу команды git config, указав свое имя и email.
 
-![Ввод команды с моим именем](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/12.png){#fig:001 width=70%}
+![Ввод команды с моим именем](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/12.png){#fig:002 width=70%}
 
-![Ввод команды с моей личной почтой, с которой я регистрировалась на Github](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/13.png){#fig:001 width=70%}
+![Ввод команды с моей личной почтой, с которой я регистрировалась на Github](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/13.png){#fig:003 width=70%}
 
-![Настройки utf-8 в выводе сообщений git](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/14.png){#fig:001 width=70%}
+![Настройки utf-8 в выводе сообщений git](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/14.png){#fig:004 width=70%}
 
 Теперь я задала имя начальной ветке и ввела параметры autocrlf и safecrlf
 
-![Называем начальную ветку master](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/15.jpg){#fig:001 width=70%}
+![Называем начальную ветку master](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/15.jpg){#fig:005 width=70%}
 
-![Вводим параметр autocrlf](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/16.png){#fig:001 width=70%}
+![Вводим параметр autocrlf](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/16.png){#fig:006 width=70%}
 
-![Вводим параметр safecrlf](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/17.jpg){#fig:001 width=70%}
+![Вводим параметр safecrlf](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/17.png){#fig:007 width=70%}
 
 3. Для	последующей	идентификации	пользователя	на	сервере	репозиториев генерируем пару ключей (приватный и открытый)
 
-![Готовый приватный SHH ключ](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/18.jpg){#fig:001 width=70%}
+![Готовый приватный SHH ключ](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/18.jpg){#fig:008 width=70%}
 
 Теперь создадим и загрузим открытый ключ на сайт Github c помощью следующей команды cat
 
-![Команда для копирования из локальной консоли ключа в буфер обмена](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/19.jpg){#fig:001 width=70%}
+![Команда для копирования из локальной консоли ключа в буфер обмена](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/19.jpg){#fig:009 width=70%}
 
-![Готовый открытый ключ на Github](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/20.jpg){#fig:001 width=70%}
+![Готовый открытый ключ на Github](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/20.jpg){#fig:010 width=70%}
 
 4. Cоздала каталог для предмета«Архитектура компьютера»
 
-![Каталог предмета «Архитектура компьютера»](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/21.jpg){#fig:001 width=70%}
+![Каталог предмета «Архитектура компьютера»](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/21.jpg){#fig:011 width=70%}
 
 5. На основе шаблона курса создала репозиторий и назвала его study_2024–2025_arh-pc
 
-![Вид нашего созданного репозитория](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/22.jpg){#fig:001 width=70%}
+![Вид нашего созданного репозитория](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/22.jpg){#fig:012 width=70%}
 
 Затем перешла в каталог курса, куда клоннировала созданный репозиторий
 
-![Процесс клонирования репозитория](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/23.jpg){#fig:001 width=70%}
+![Процесс клонирования репозитория](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/23.jpg){#fig:013 width=70%}
 
 6. Теперь перейдем в каталог курса ~/work/study/2023-2024/"Архитектура компьютера"/arch-pc и удалим лишние файлы
 
-![Удаление package.json из каталога курса](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/24.jpg){#fig:001 width=70%}
+![Удаление package.json из каталога курса](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/24.jpg){#fig:014 width=70%}
 
 Создаем необходимые каталоги и отправляем файлы на серверов.
 
-![Создание неоходимых каталогов и дальнейшая отправка файлов на серверов](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/25.jpg){#fig:001 width=70%}
+![Создание неоходимых каталогов и дальнейшая отправка файлов на серверов](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/25.jpg){#fig:015 width=70%}
 
 Теперь проверим правильность выполненных действий в локальном репозитории и на странице github.
 
-![Иерархия рабочего пространства в локальном репозитории.](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/26.jpg){#fig:001 width=70%}
+![Иерархия рабочего пространства в локальном репозитории.](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/26.jpg){#fig:016 width=70%}
 
 # Выполнение самостоятельной работы
 
 1. Перешла в каталог labs>lab02>report и открыла текстовый редактор mcedit. В нем я и писала отчет по выполненной лабораторной работе
 
-![Открытие текстового редактора mcedit в соответсвующем каталоге](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/27.jpg){#fig:001 width=70%}
+![Открытие текстового редактора mcedit в соответсвующем каталоге](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/27.jpg){#fig:017 width=70%}
 
-![Текстовый редактор mcedit, в котором пишется отчет.](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/28.jpg){#fig:001 width=70%}
+![Текстовый редактор mcedit, в котором пишется отчет.](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/28.png){#fig:018 width=70%}
 
 2. Скопировала отчет по выполнению предыдущей лабораторной работы №1 в соответствующий каталог lab01
 
-![Копирование лабораторной работы №1 в соответсвующий каталог](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/29.jpg){#fig:001 width=70%}
+![Копирование лабораторной работы №1 в соответсвующий каталог](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/29.png){#fig:019 width=70%}
 
 3. Загрузила файлы на github.
 
-![Загрузка файлов на github.](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/30.jpg){#fig:001 width=70%}
+![Загрузка файлов на github.](/afs/.dk.sci.pfu.edu.ru/home/e/e/eeprozorova/work/study/2024-2025/Архитектура компьютера/arch-pc/labs/lab02/report/image/30.png){#fig:020 width=70%}
 
 # Выводы
 
